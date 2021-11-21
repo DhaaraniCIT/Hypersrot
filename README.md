@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation steps
+
+
+  ##`npm install`
+
+  ##`npm i react-chartjs-2`
+
+  ##`npm start`
+
+## Deployed Link
+
+  https://hungry-keller-42b6f1.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
