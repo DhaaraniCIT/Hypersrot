@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation steps
 
 
-  ##`npm install`
+  ### `npm install`
 
-  ##`npm i react-chartjs-2`
+  ### `npm i react-chartjs-2`
 
-  ##`npm start`
+  ### `npm start`
 
 ## Deployed Link
 
